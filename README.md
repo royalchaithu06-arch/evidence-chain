@@ -18,7 +18,7 @@ cd frontend
 npm install
 npm run dev
 ```
-API docs: http://127.0.0.1:8000/docs
+API docs: https://trace-proof-vault.base44.app
 Demo login: `admin@evidencechain.local` / `ChangeMe123!` (local demo only).
 Tests: `cd backend && pytest -q`
 
