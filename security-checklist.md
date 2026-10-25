@@ -1,0 +1,13 @@
+# Security checklist
+- [x] Backend computes SHA-256
+- [x] Non-public storage and generated storage names
+- [x] Upload size limits
+- [x] Password hashing and expiring revocable sessions
+- [x] Protected evidence detail/download/verification endpoints
+- [x] Hash-chained custody ledger and validation
+- [x] CSV formula-leading character mitigation
+- [x] Environment templates and Git ignore
+- [ ] HttpOnly cookie sessions and CSRF for production
+- [ ] Email verification, password reset, TOTP MFA
+- [ ] Digital signatures, independent checkpoints, encryption-at-rest key management
+- [ ] Database migrations, distributed rate limiting, independent security review
